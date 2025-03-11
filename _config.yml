@@ -3,6 +3,4 @@ logo: /assets/images/Profile_Pic.jpg
 show_downloads: true
 theme: remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-remote-theme
+- jekyll-remote-theme
